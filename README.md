@@ -8,7 +8,7 @@ output:
 Meetup R - Sevilla - 6 Noviembre 2018
 
 # Regresión Avanzada con Machine Learning
-![Presentación Regresión Avanzada con Machine Learning](/figures/Regresion Avanzada ML.PNG)
+![Presentación Regresión Avanzada con Machine Learning](/figures/RegresionAvanzadaML.PNG)
 
 # Regresión Cuantil con Red Neuronal (Keras - Tensorflow)
-![Presentación Regresión Cuantil con Red Neuronal](/figures/Quantile Regression.PNG)
+![Presentación Regresión Cuantil con Red Neuronal](/figures/QuantileRegression.PNG)
