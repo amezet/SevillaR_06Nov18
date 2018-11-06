@@ -1,0 +1,3 @@
+tipo.mod;objective;eval_metric;subsample;colsample_bytree
+regression_l2;reg:linear;rmse;1;1
+regression_l1;reg:linear;mae;1;1

@@ -1,0 +1,5 @@
+tipo.mod;objective;boosting;metric;lambda_l1;lambda_l2;bagging_freq;bagging_fraction;feature_fraction;alpha
+regression_l2;regression_l2;gbdt;rmse;0;0;1;1;1;0
+regression_l1;regression_l1;gbdt;mae;0;0;1;1;1;0
+random_forest;random_forest;rf;rmse;0;0;1;1;1;0
+quantile;quantile;gbdt;quantile;0;0;1;1;1;0.5
